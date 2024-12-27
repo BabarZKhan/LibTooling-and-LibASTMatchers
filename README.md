@@ -1,6 +1,6 @@
 # LibTooling-and-LibASTMatchers
 
-This document is intended to show how to build a useful source-to-source translation tool based on Clang’s LibTooling. It is explicitly aimed at people who are new to Clang, so all you should need is a working knowledge of C++ and the command line.
+This source code is intended to show how to build a useful source-to-source translation tool based on Clang’s LibTooling. It is explicitly aimed at people who are new to Clang, so all you should need is a working knowledge of C++ and the command line.
 
 In order to work on the compiler, you need some basic knowledge of the abstract syntax tree (AST). To this end, the reader is encouraged to skim the Introduction to the Clang AST
 
