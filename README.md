@@ -33,3 +33,7 @@ Oay. Now we’ll build Clang!
 - `ninja check`
 - `ninja clang-test`
 - `ninja install`
+
+  
+Installation:
+-----------------
