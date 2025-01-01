@@ -37,3 +37,6 @@ Oay. Now we’ll build Clang!
   
 Installation:
 -----------------
+![1](https://github.com/user-attachments/assets/20f3c1c3-0aeb-427e-88d5-85ce749d3be6)
+![2](https://github.com/user-attachments/assets/26cb80b8-e696-40d0-8380-17c707c7b660)
+
